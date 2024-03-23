@@ -1,3 +1,9 @@
+function formatMoney(){
+    value = value.toFixed(2)
+    return '$ ' + value
+}
+
+
 
 function update() {
     let bill = Number(document.getElementById('yourBill').value)
