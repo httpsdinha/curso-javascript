@@ -25,4 +25,6 @@ function update() {
     document.getElementById('totalWithTip').innerHTML = formatMoney(billTotal)
     document.getElementById('splitValue').innerHTML = formatSplit(split)
     document.getElementById('billEach').innerHTML = formatMoney(billTotal / split)
+
+
 }
