@@ -1,16 +1,20 @@
-# Calculadora de Gorjeta e Divisão de Conta
+# Gerador de Cores Aleatórias
 
-Este é um programa simples em JavaScript que calcula a gorjeta apropriada com base no valor total da compra e opcionalmente divide a conta entre várias pessoas.
+Este é um projeto simples de um site que gera uma cor aleatória ao pressionar um botão e muda a cor de fundo do site para essa cor gerada.
 
 ## Funcionalidades
 
-- Calcula a porcentagem da gorjeta com base no valor total da compra.
-- Permite dividir a conta entre várias pessoas, calculando a quantia que cada pessoa deve pagar.
+- Gera uma cor aleatória ao pressionar o botão.
+- Altera a cor de fundo do site para a cor aleatória gerada.
 
 ## Como Usar
 
-1. Abra o arquivo HTML em seu navegador da web.
-2. Insira o valor total da compra, a porcentagem da gorjeta desejada e o número de pessoas para dividir a conta (opcional).
-3. Clique no botão "Calcular" para ver o resultado.
+1. Abra o site em um navegador da web.
+2. Clique no botão "Gerar Cor" para obter uma cor aleatória.
+3. Observe como a cor de fundo do site muda para a cor gerada.
 
+## Tecnologias Utilizadas
 
+- HTML
+- CSS
+- JavaScript
